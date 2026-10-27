@@ -1,0 +1,6 @@
+{
+  "name": "Dara Food & Coffee Delivery",
+  "description": "Mobile food and beverage delivery application featuring top recommendations, popular picks, promotional carousel, and interactive cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
